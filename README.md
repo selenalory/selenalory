@@ -55,6 +55,6 @@
 </p>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/selenalory/selenalory/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/selenalory2/selenalory/output/github-contribution-grid-snake.svg)
 
 
