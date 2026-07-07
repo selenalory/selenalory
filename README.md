@@ -43,6 +43,12 @@
 </p>
 </div>
 
+<a href="https://www.youtube.com/@seltgyf" target="_blank">
+    <img src="./assets/icons/youtube.png" alt="YouTube" height="35"/>
+  </a>
+</p>
+</div>
+
 <div>
 <p align="center">
   <img src="./assets/icons/matix.gif" alt="Coding GIF" width="250"/>
