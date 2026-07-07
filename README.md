@@ -25,23 +25,23 @@
     <img src="./assets/icons/notion.png" alt="Notion" height="35"/>
   </a>
 
-  <a href="mailto:SEUEMAIL@gmail.com" target="_blank">
+  <a href="mailto:selenalory.dev@gmail.com" target="_blank">
     <img src="./assets/icons/gmail.png" alt="Gmail" height="35"/>
   </a>
 
-  <a href="https://www.instagram.com/SEU_USUARIO/" target="_blank">
+  <a href="https://www.instagram.com/seltgyf/" target="_blank">
     <img src="./assets/icons/instagram.png" alt="Instagram" height="35"/>
   </a>
 
-  <a href="https://discord.com/users/SEU_ID" target="_blank">
+  <a href="https://discord.com/users/selenalory" target="_blank">
     <img src="./assets/icons/discord.png" alt="Discord" height="35"/>
   </a>
 
-  <a href="https://www.twitch.tv/SEU_USUARIO" target="_blank">
+  <a href="https://www.twitch.tv/seltgyf" target="_blank">
     <img src="./assets/icons/twitch.png" alt="Twitch" height="35"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/SEU_USUARIO/" target="_blank">
+  <a href="https://www.linkedin.com/in/selenalory/" target="_blank">
     <img src="./assets/icons/linkedin.png" alt="LinkedIn" height="35"/>
   </a>
 </p>
