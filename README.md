@@ -47,5 +47,9 @@
 </p>
 </div>
 
+<p align="center">
+  <img src="./assets/icons/created-gif.gif" alt="Coding GIF" width="250"/>
+</p>
+
 
 
