@@ -55,4 +55,6 @@
 </p>
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/selenalory/selenalory/output/github-contribution-grid-snake.svg)
+
 
