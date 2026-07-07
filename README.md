@@ -47,9 +47,12 @@
 </p>
 </div>
 
+<div>
 <p align="center">
+  <img src="./assets/icons/matix.gif" alt="Coding GIF" width="250"/>
   <img src="./assets/icons/created-gif.gif" alt="Coding GIF" width="250"/>
+  <img src="./assets/icons/GlitchCats.gif" alt="Coding GIF" width="250"/>
 </p>
-
+</div>
 
 
