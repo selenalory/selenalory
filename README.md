@@ -1,21 +1,17 @@
- # Hi there! I'm Selena Lory 👋 :)
+# Hi there! I'm Selena Lory 👋
 
-- 🔭 I’m currently working on building my software engineering portfolio and developing practical projects.
-
-- 🌱 I’m currently learning C, HTML, CSS, JavaScript, Git, GitHub, and SQL.
-
-- 👯 I’m looking to collaborate on open-source projects, web applications, and software development projects.
-
-- 🤔 I’m looking for help with software architecture, clean code, front-end development, backend development, and software engineering best practices.
-
-- 💬 Ask me about C, HTML, CSS, JavaScript, Git, GitHub, front-end development, web development, and my learning journey.
-
-- 📫 How to reach me: LinkedIn | Email
-
-- 😄 Pronouns: she/her
-
-- ⚡ Fun fact: I love turning ideas into projects, keeping my projects well organized, and learning something new every day.
-
+- 🎓 Software Engineering student.
+- 🌱 Learning C, HTML, CSS, JavaScript, Git and GitHub.
+- 💻 Building my portfolio and practical projects.
+- 🚀 Looking for my first opportunity in tech.
+  
+<div style="display: inline_block"><br>
+  <img src="./assets/icons/c-sharp.png" height="30" width="40">
+  <img src="./assets/icons/html.png" height="30" width="40">
+  <img src="./assets/icons/css-3.png" height="30" width="40">
+  <img src="./assets/icons/js.png" height="30" width="40">
+</p>
+</div>
 
 <div align="center">
   <a href="https://github.com/selenalory">
