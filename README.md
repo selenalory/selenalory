@@ -21,10 +21,6 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <a href="https://www.notion.so/" target="_blank">
-    <img src="./assets/icons/notion.png" alt="Notion" height="35"/>
-  </a>
-
   <a href="mailto:selenalory.dev@gmail.com" target="_blank">
     <img src="./assets/icons/gmail.png" alt="Gmail" height="35"/>
   </a>
