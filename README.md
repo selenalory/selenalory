@@ -1,4 +1,4 @@
-## Oie! Eu sou a Selena Lory :)
+ # Hi there! I'm Selena Lory 👋 :)
 
 - 🔭 I’m currently working on building my software engineering portfolio and developing practical projects.
 
