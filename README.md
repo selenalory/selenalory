@@ -8,9 +8,9 @@
 # Olá! Sou Selena Lory 👋
 
 - 🎓 Estudante de Engenharia de Software
-- 🌱 Aprendendo **C, HTML, CSS, JavaScript, Git e GitHub**
-- 💻 Construindo meu portfólio e projetos práticos
-- 🚀 Em busca da minha primeira oportunidade em tecnologia
+- 🤖 Estudo **C, C++, C#, HTML, CSS, JavaScript, Linux, Git e GitHub**
+- 💻 Foco em POO, Estruturas de Dados e desenvolvimento web
+- 🚀 Em busca do meu primeiro estágio em Desenvolvimento de Software
 
 </td>
 
